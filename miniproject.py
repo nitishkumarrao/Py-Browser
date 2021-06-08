@@ -5,16 +5,13 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 import random,array
 from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
 from PyQt5 import QtWidgets
 from requests_html import HTMLSession
-from PyQt5.QtGui import * 
 from PyQt5.QtWebEngineWidgets import * 
 from PyQt5.QtPrintSupport import * 
 import os 
 import speech_recognition as sr
 import sys
-import math
 from pytube import YouTube
 from PyDictionary import PyDictionary
 from tkinter import *
