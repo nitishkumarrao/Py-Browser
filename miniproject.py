@@ -476,6 +476,7 @@ class MainWindow(QMainWindow):
                 engine.runAndWait()   
             except:
                 print("Can't recognize")
+                print("Can't recognize")
 
 app = QApplication(sys.argv)
 window = MainWindow()
