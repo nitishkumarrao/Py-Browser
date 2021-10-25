@@ -4,7 +4,7 @@ random2
 requests-html
 PyQt5-stubs
 SpeechRecognition
-pytube
+pafy
 PyDictionary
 tk
 Pillow
